@@ -1,0 +1,5 @@
+The parser we use, located inside directory `parser', comes from the Qt Creator
+IDE. Even though we're targeting only C, we kept it in its original form. This 
+tool was built on top of one of the versions of the parser created for psychec 
+(https://github.com/ltcmelo/psychec).
+
